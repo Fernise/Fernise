@@ -3,7 +3,8 @@ Hi 👋 My name is Fernando González
 
 Computer Engineering Student
 ----------------------------
-
+![image](https://github.com/Fernise/Fernise/assets/74357530/c37213f3-f729-4c6f-a7e8-461b08445d20)
+----------------------------
 I have been learning new technologies for +5 years. I love doing interesting projects.
 * 🌍  I'm based in Spain
 * ✉️  You can contact me at [fernise2003@gmail.com](mailto:fernise2003@gmail.com)
