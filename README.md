@@ -4,7 +4,8 @@ Hi 👋 My name is Fernando González
 Computer Engineering Student
 ----------------------------
 
-I have been learning new technologies for +5 years. I love doing interesting projects.
+I have been learning new technologies for +5 years. 
+I love doing interesting projects.
 * 🌍  I'm based in Spain
 * ✉️  You can contact me at [fernise2003@gmail.com](mailto:fernise2003@gmail.com)
 * 🧠  I'm learning SQL
