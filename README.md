@@ -9,7 +9,7 @@ I have been learning new technologies for +5 years. I love doing interesting pro
 * 🌍  I'm based in Spain
 * ✉️  You can contact me at [fmgpsb@gmail.com](mailto:fernise2003@gmail.com)
 * 🧠  I'm learning SQL
-* 🤝  I'm open to collaborating on Python, C++ and Java backend projects
+* 🤝  I'm open to collaborating on Python and C++ backend projects
 * ⚡  I love learning day to day
 
 ### Skills
