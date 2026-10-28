@@ -4,7 +4,7 @@
 
 Project previews are unmodified copies of the reviewed local demonstration screenshots published by the author:
 
-- [Brisa Energía](https://github.com/Fernise/brisa-energy/blob/main/docs/assets/preview.png)
+- [Luma](https://github.com/Fernise/luma-learning/blob/main/docs/assets/preview.png)
 - [LessonFlow](https://github.com/Fernise/lessonflow-app/blob/main/docs/assets/preview.png)
 - [Expediente VV](https://github.com/Fernise/expediente-vv/blob/main/docs/assets/preview.png)
 - [Alerta Tram Tenerife](https://github.com/Fernise/alerta-tram-tenerife/blob/main/docs/assets/preview.png)

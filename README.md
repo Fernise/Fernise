@@ -2,7 +2,7 @@
 
 # Hi, I’m Fernando.
 
-I build practical software for **education, energy and everyday workflows**. My work starts with a concrete problem: making lesson preparation easier, coordinating a solar community, or turning a complex document process into a usable workspace.
+I build practical software for **education, energy and everyday workflows**. My work starts with a concrete problem: making lesson preparation easier, supporting learning, or turning a complex document process into a usable workspace.
 
 I’m interested in collaborating with people who know a problem well and want to shape a useful product around it.
 
@@ -15,10 +15,10 @@ A selection of implemented projects with source, screenshots, setup instructions
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Fernise/brisa-energy"><img src="assets/projects/brisa-energy.png" alt="Brisa Energía interface preview" width="420" /></a>
-      <h3><a href="https://github.com/Fernise/brisa-energy">Brisa Energía</a></h3>
-      <p><strong>Collective solar-community coordination.</strong><br />Community workspaces, energy review and budget preparation.</p>
-      <p><sub>Node.js · SQLite</sub></p>
+      <a href="https://github.com/Fernise/luma-learning"><img src="assets/projects/luma-learning.png" alt="Luma interface preview" width="420" /></a>
+      <h3><a href="https://github.com/Fernise/luma-learning">Luma</a></h3>
+      <p><strong>A space to think, explore and discover.</strong><br />Adaptive activities for fractions, patterns and logic.</p>
+      <p><sub>Node.js · SQLite · Browser JavaScript</sub></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Fernise/lessonflow-app"><img src="assets/projects/lessonflow-app.png" alt="LessonFlow interface preview" width="420" /></a>
@@ -49,7 +49,6 @@ A selection of implemented projects with source, screenshots, setup instructions
 
 | Project | What it explores |
 | --- | --- |
-| [Luma](https://github.com/Fernise/luma-learning) | Adaptive activities for fractions, patterns and logic, with optional AI interpretation. |
 | [AgroCanary](https://github.com/Fernise/AgroCanary) | Direct produce enquiries between Canary Islands growers and buyers. |
 | [Gurkerl Recommender MCP](https://github.com/Fernise/gurkerl-recommender-mcp) | Explainable grocery ranking, offer monitoring and weekly digests. |
 | [Jarvis](https://github.com/Fernise/jarvis) | A personal workflow assistant for transcript capture and teaching preparation. |
