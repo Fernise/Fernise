@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+.private/
+internal/
+*.key
+*.pem
+*.log
+__pycache__/

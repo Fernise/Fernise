@@ -1,0 +1,26 @@
+name: Profile checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  source-safety:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - run: python3 scripts/check-repository.py
+      - name: Scan published history
+        run: >-
+          docker run --rm --volume "$PWD:/repo:ro"
+          ghcr.io/gitleaks/gitleaks:v8.30.1
+          git /repo --log-opts="--all" --redact=100 --ignore-gitleaks-allow --no-banner

@@ -1,41 +1,72 @@
-Hi 👋 My name is Fernando González
-==================================
+![Fernando González — useful software, from real problems](assets/profile-header.png)
 
-Computer Engineering Student
-----------------------------
-![image](https://github.com/Fernise/Fernise/assets/74357530/c37213f3-f729-4c6f-a7e8-461b08445d20)
-----------------------------
-I have been learning new technologies for +5 years. I love doing interesting projects.
-* 🌍  I'm based in Spain
-* ✉️  You can contact me at [fmgpsb@gmail.com](mailto:fernise2003@gmail.com)
-* 🧠  I'm learning SQL
-* 🤝  I'm open to collaborating on C++ and Python projects
-* ⚡  I love learning day to day
+# Hi, I’m Fernando.
 
-### Skills
+I build practical software for **education, energy and everyday workflows**. My work starts with a concrete problem: making lesson preparation easier, coordinating a solar community, or turning a complex document process into a usable workspace.
 
+I’m interested in collaborating with people who know a problem well and want to shape a useful product around it.
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+[Connect on LinkedIn](https://www.linkedin.com/in/fernando-gonz%C3%A1lez-perdomo-8ba956217/) · [Selected projects](#selected-projects) · [How I work](#how-i-work)
 
+## Selected projects
 
-### Socials
+A selection of implemented projects with source, screenshots, setup instructions and verification notes. The repository READMEs explain their current status and integration limits.
 
-<p align="left"> <a href="https://www.github.com/Fernise" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/fernando-gonz%C3%A1lez-perdomo-8ba956217/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Fernise/brisa-energy"><img src="assets/projects/brisa-energy.png" alt="Brisa Energía interface preview" width="420" /></a>
+      <h3><a href="https://github.com/Fernise/brisa-energy">Brisa Energía</a></h3>
+      <p><strong>Collective solar-community coordination.</strong><br />Community workspaces, energy review and budget preparation.</p>
+      <p><sub>Node.js · SQLite</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Fernise/lessonflow-app"><img src="assets/projects/lessonflow-app.png" alt="LessonFlow interface preview" width="420" /></a>
+      <h3><a href="https://github.com/Fernise/lessonflow-app">LessonFlow</a></h3>
+      <p><strong>A workspace for language teachers.</strong><br />Student memory, lesson planning and reusable teaching materials.</p>
+      <p><sub>Next.js · TypeScript · Supabase</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Fernise/expediente-vv"><img src="assets/projects/expediente-vv.png" alt="Expediente VV interface preview" width="420" /></a>
+      <h3><a href="https://github.com/Fernise/expediente-vv">Expediente VV</a></h3>
+      <p><strong>Clearer holiday-rental document workflows.</strong><br />Property dossiers, private documents and professional review.</p>
+      <p><sub>React · TypeScript · Cloudflare</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Fernise/alerta-tram-tenerife"><img src="assets/projects/alerta-tram-tenerife.png" alt="Alerta Tram Tenerife interface preview" width="420" /></a>
+      <h3><a href="https://github.com/Fernise/alerta-tram-tenerife">Alerta Tram Tenerife</a></h3>
+      <p><strong>A clearer view of Tenerife’s tram network.</strong><br />Tram positions, occupancy and recent community alerts.</p>
+      <p><sub>React · TypeScript · Cloudflare</sub></p>
+    </td>
+  </tr>
+</table>
 
-### Badges
+*Previews are local interface captures using demo or fictional content. They do not establish live service availability.*
 
-<b>My GitHub Stats</b>
+## More projects
 
-<a href="http://www.github.com/Fernise"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fernise&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+| Project | What it explores |
+| --- | --- |
+| [Luma](https://github.com/Fernise/luma-learning) | Adaptive activities for fractions, patterns and logic, with optional AI interpretation. |
+| [AgroCanary](https://github.com/Fernise/AgroCanary) | Direct produce enquiries between Canary Islands growers and buyers. |
+| [Gurkerl Recommender MCP](https://github.com/Fernise/gurkerl-recommender-mcp) | Explainable grocery ranking, offer monitoring and weekly digests. |
+| [Jarvis](https://github.com/Fernise/jarvis) | A personal workflow assistant for transcript capture and teaching preparation. |
+| [Lunch Finder](https://github.com/Fernise/lunch-finder) | Nearby lunch shortlists from configurable menu sources, delivered through Telegram. |
 
-<a href="https://github.com/Fernise" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernise&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## How I work
 
-<b>Top Repositories</b>
+- **Start with the workflow.** Clarify who needs the product, what is difficult today and which decisions matter.
+- **Build with context.** Turn requirements and domain constraints into a usable interface and a maintainable implementation.
+- **Check the result.** Use tests, local rehearsals and clear documentation to show what works and what still needs validation.
 
-<div width="100%" align="center"><a href="https://github.com/Fernise/MP3" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Fernise&repo=MP3&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/Fernise/GirlWalking" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Fernise&repo=GirlWalking&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+I use **agentic programming with OpenAI Codex** for implementation, refactoring, testing and documentation. I set the product direction, requirements and final decisions. Each repository records its own verification and limitations.
 
-<br /><br /><br /><br /><br />
+**Tools in these projects:** Python · TypeScript · JavaScript · React / Next.js · Node.js · SQL / SQLite · Supabase · Cloudflare · MCP
 
-<div width="100%" align="center"><a href="https://github.com/Fernise/Java-Stuff" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Fernise&repo=Java-Stuff&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en" /></a></div>
+## Let’s collaborate
+
+If you’re exploring a product in education, energy, document workflows or practical automation, I’d be glad to hear about the problem you’re trying to solve.
+
+**[Start a conversation on LinkedIn →](https://www.linkedin.com/in/fernando-gonz%C3%A1lez-perdomo-8ba956217/)**
